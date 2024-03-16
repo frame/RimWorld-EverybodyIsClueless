@@ -1,5 +1,11 @@
 # Everybody Is Clueless
 
+A mod for [Rimworld](https://store.steampowered.com/app/294100/RimWorld/)
+
+![preview](https://github.com/frame/RimWorld-EverybodyIsClueless/blob/main/About/Preview.png?raw=true)
+
+## About
+
 Removes starting research from all factions.
 
 This affects the "New Tribe" and "New Arrivals" factions from the base game as well as all custom factions. To ensure that factions added by mods don't start with research, it is recommended that you move this mod to the very end of your mod list.
